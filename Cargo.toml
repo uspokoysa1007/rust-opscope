@@ -1,0 +1,8 @@
+[package]
+name = "opscope"
+version = "0.1.0"
+edition = "2021"
+description = "A fast, standalone x86/x64 opcode inspector and disassembler with syntax highlighting and control flow analytics"
+
+[dependencies]
+iced-x86 = "1.21.0"
